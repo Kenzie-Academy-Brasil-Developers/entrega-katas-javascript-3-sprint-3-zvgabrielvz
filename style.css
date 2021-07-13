@@ -1,0 +1,22 @@
+body{
+    margin: 10px;
+    background-color: cadetblue;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.kata {
+    background-color: aquamarine;
+    border: solid;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    
+    
+   
+}
